@@ -2,6 +2,12 @@
 
 No changes are made to the source repository automatically. To publish, use **a repository you own or are authorized to update**.
 
+## Affiliate referral and public attribution
+
+For people who need a VideoExpress account, share the maintainer's optional affiliate link: **[Access VideoExpress](https://videoexpress.alphatoolkits.com/)**.
+
+**Disclosure for public docs:** This is an affiliate link. The repository maintainer may receive a commission if you complete an eligible purchase/subscription through it. Affiliate attribution and payment depend on the provider's terms and tracking; GitHub cannot guarantee commission. Do not hide the commercial nature of the link, imply an official affiliation, promise an unverified discount, or automatically redirect existing users. VideoExpress's normal app URL remains `https://app.videoexpress.ai/` for the signed-in production workflow.
+
 ## Recommended: new repository
 
 1. Review the [original repository](https://github.com/ai-playbooks/videoexpress-two-character-agent) and licensing/provenance concerns. The inspected source root did not show a license file; do not assume copying original content is permitted. This project is a substantial rewrite based on the user-provided prompt and the public workflow description.

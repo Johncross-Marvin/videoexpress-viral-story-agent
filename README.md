@@ -4,6 +4,12 @@ A rewritten **GitHub-ready playbook and prompt kit** for producing narrative vid
 
 > **Important:** This is a production specification, prompt library, and offline planning/validation toolkit—not an unofficial VideoExpress API client or a claim that the editor has been automated. A capable, authorized browser/computer-use agent and a signed-in VideoExpress account are needed for on-site execution. Individual app controls and limits must be verified in the live UI. This package has not been tested end-to-end against the signed-in VideoExpress editor.
 
+## Get VideoExpress (affiliate link)
+
+**New to VideoExpress?** [Access VideoExpress using the repository maintainer's referral link](https://videoexpress.alphatoolkits.com/) before using this workflow. Already have a VideoExpress account? You can use your existing account.
+
+> **Affiliate disclosure:** This is the repository maintainer's affiliate link. If you make an eligible purchase or subscription through it, the maintainer may receive a commission. Tracking, eligibility and payment are controlled by the VideoExpress affiliate program; a commission is not guaranteed. This repository is an independent community workflow, not an official VideoExpress product. You are not required to use the referral link to use these prompts.
+
 ## NEW: Viral-pattern scriptwriting workflow (script first)
 
 This edition integrates **two narrative mechanisms** extracted from the user's two sample-video analyses, while keeping every generated story original:
@@ -82,6 +88,8 @@ videoexpress-longform-story-agent/
 ```
 
 ## Install the prompts
+
+If you don't yet have VideoExpress access, use the [optional affiliate signup link](https://videoexpress.alphatoolkits.com/) (the maintainer may receive a commission on eligible purchases/subscriptions). If you already have an account, proceed with it.
 
 **Custom GPT / agent:** paste `SYSTEM_PROMPT_COMPACT.md` into your custom instructions and attach **both** `SYSTEM_PROMPT.md` **and** `VIRAL_STORY_ENGINE.md` (plus templates if supported) as knowledge references. Enable a browser/computer-use capability if your environment actually offers one. **ChatGPT Work** may be an alternative if you have access to its browser/computer workflow; this package does not itself provide browser tools.
 
